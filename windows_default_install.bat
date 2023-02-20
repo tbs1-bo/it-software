@@ -15,7 +15,7 @@ REM install eapi for the eamodule
 pip install eapi
 
 REM Applications (look into README.md for more information)
-choco install eagle foxitreader fritzing libreoffice notepadplusplus tightvnc virtualbox wireshark -y
+choco install eagle foxitreader fritzing libreoffice notepadplusplus tightvnc virtualbox wireshark thunderbird firefox mobaxterm vlc keepassxc vscodium -y
 
 REM Install scapy via pip - needs Pcap (via wireshark)
 pip install scapy-python3
