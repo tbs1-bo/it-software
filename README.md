@@ -62,4 +62,4 @@ auftauchen, können sie mit `REM` auskommentiert werden.
 - [Mozilla Firefox](https://www.mozilla.org/firefox/): Webbrowser
 - [Mozilla Thunderbird](https://www.thunderbird.net): E-Mail Client
 - [MobaXterm](https://mobaxterm.mobatek.net/): Ermöglicht Zugriff auf entferne Rechner (z.B. Raspberry Pi).
-- [VLC Media Player](https://www.videolan.org/vlc/):
+- [VLC Media Player](https://www.videolan.org/vlc/): Anwendung zum Abspielen von Audioinhalten.
